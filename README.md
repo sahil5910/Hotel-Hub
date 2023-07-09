@@ -14,6 +14,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+You will see tha home page like this
+![Screenshot from 2023-07-09 12-09-03](https://github.com/sahil5910/Hotel-Hub/assets/109588023/f7306d82-2ce4-4471-8771-b7458e6ed812)
+
+
+Search Prompt
+
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
