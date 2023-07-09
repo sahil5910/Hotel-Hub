@@ -19,7 +19,7 @@ Home Page Interface:
 
 
 Search Prompt Interface: 
-![Screenshot from 2023-07-09 12-09-09](https://github.com/sahil5910/Hotel-Hub/assets/109588023/cfbb580b-ad0e-4864-9757-9866a57cd44a)
+![Screenshot from 2023-07-09 12-43-35](https://github.com/sahil5910/Hotel-Hub/assets/109588023/04e15b7e-65e4-4c88-9594-ee7e3c8fee66)
 
 
 Search Results Interface: 
