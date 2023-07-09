@@ -14,15 +14,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-You will see tha home page like this
+Home Page Interface:
 ![Screenshot from 2023-07-09 12-09-03](https://github.com/sahil5910/Hotel-Hub/assets/109588023/f7306d82-2ce4-4471-8771-b7458e6ed812)
 
 
-Search Prompt : 
+Search Prompt Interface: 
 ![Screenshot from 2023-07-09 12-09-09](https://github.com/sahil5910/Hotel-Hub/assets/109588023/cfbb580b-ad0e-4864-9757-9866a57cd44a)
 
 
-Search Results : 
+Search Results Interface: 
 ![Screenshot from 2023-07-09 12-09-25](https://github.com/sahil5910/Hotel-Hub/assets/109588023/fa0e1df6-dbf4-4a4d-a322-283bd3e78ea4)
 
 
